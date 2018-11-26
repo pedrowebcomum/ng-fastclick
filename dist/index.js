@@ -900,6 +900,6 @@
 	}
 })();
 
-angular.module("ng-fastclick", []).run(function() {
+angular.module("ng-fastclick-wbc", []).run(function() {
 	FastClick.attach(document.body);
 });

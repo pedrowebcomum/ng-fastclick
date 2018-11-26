@@ -1,4 +1,3 @@
-angular.module('ng-fastclick', []).run(function() {
-  FastClick.attach(document.body)
+angular.module("ng-fastclick-wbc", []).run(function() {
+	FastClick.attach(document.body);
 });
-
