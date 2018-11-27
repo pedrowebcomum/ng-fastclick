@@ -2,10 +2,8 @@
 	"name": "ng-fastclick-wbc",
 	"main": "dist/index.min.js",
 	"version": "1.0.3",
-	"authors": [
-		"Paul Sweeney <paul@fullscreen.net>",
-		"Pedro Rodrigues <pedrorodrigues@webcomum.com>"
-	],
+	"authors": ["Paul Sweeney <paul@fullscreen.net>"],
+	"contributors": ["Pedro Rodrigues <pedrorodrigues@webcomum.com>"],
 	"moduleType": ["globals"],
 	"license": "MIT",
 	"ignore": [

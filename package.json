@@ -5,6 +5,9 @@
 		"build": "gulp"
 	},
 	"author": "Paul Sweeney <paul@fullscreen.net>",
+	"contributors": [
+		"Pedro Rodrigues <pedrorodrigues@webcomum.com>"
+	],
 	"license": "MIT",
 	"dependencies": {
 		"fastclick": "^1.0.6",
